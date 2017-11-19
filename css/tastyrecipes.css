@@ -167,5 +167,9 @@ form#signup{
     clear:left;
 }
 
+#tastyrecipes:visited,#tastyrecipes:hover, #tastyrecipes:active{
+    color:black;
+}
+
 
 
