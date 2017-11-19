@@ -1,0 +1,171 @@
+h1,h2,h2,h3,h4,h5,h6{
+    font-weight:bold;
+}
+h1{
+    font-size:3em;
+    margin-top:0.6em;
+    margin-bottom:0.6em;
+}
+h2{
+    font-size:2em;
+    margin-top:0.7em;
+    margin-bottom:0.7em;
+}
+h3{
+    font-size:1.3em;
+    margin-top:1em;
+    margin-bottom:0.8em;
+}
+h4{
+    font-size:1em;
+    margin-top:1em;
+    margin-bottom:1em;
+}
+
+strong{
+    font-weight: bold;
+}
+
+body{
+    font-family: Verdana,Geneva,sans-serif;
+    background-color:#fcf9ed;
+    background-image: url(../resources/bgfood.jpg);
+    color: black;
+}
+div.document{
+    max-width:70em;
+    min-width: 56em;
+    width: 84%;
+    margin: 0px 8%;
+    margin-bottom: 5em;
+    padding-bottom: 1.4em;
+    box-shadow: 
+        0 4px 8px 0 rgba(0, 0, 0, 0.4),
+        0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    border: 1px solid black;
+}
+nav{
+    border-width: 1px 0px;
+    border-style: solid;
+    border-color: black;
+}
+.main{
+    padding: 1em 2em;
+
+}
+body div{
+    background-color:inherit;
+}
+
+p{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+div.banner{
+    height: 7em;
+    padding: 1em 2em;
+}
+.banner h1{
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    display:block;
+    float:left;
+}
+div.login{
+    display:block;
+    float:right;
+    height:100%;
+    text-align: right;
+    padding: 0.2em 2em;
+}
+
+form.login p{
+    margin: 0;
+    text-align: left;
+    font-size: 0.8em;
+}
+
+
+input[type=text],input[type=password]{
+    width: 10em;
+}
+.login input:not(last-child){
+    margin-bottom: 0.4em;
+}
+
+form .textfield{
+    width: 12em;    
+}
+
+form input[name=login]{
+    float:left;
+}
+
+form input[name=register]{
+    float:right;
+}
+
+.deletecomment{
+    display: block;
+    float: right;
+}
+
+ol,ul{
+    list-style-position:inside;
+}
+ul{
+    list-style-type: disc;
+    margin-left:1em;
+}
+ol{
+    list-style-type: decimal;
+    margin-left:1em;
+}
+img{
+    border:1px solid black;
+}
+.recipeimg{
+    height:22em;
+    width:34em;
+    max-width: 40em;
+    display: block;
+    margin: auto;
+}
+
+.recipetitle{
+    text-align: center;
+}
+
+div.comment{
+    background-color: #ededed;
+    display:block;
+    margin-bottom: 0.4em;
+    padding: 0.4em 0.8em;
+}
+
+div.comment h4{
+    margin: 0.4em 0;
+    display:inline;
+    text-decoration: underline;
+}
+
+div.comment p{
+    margin: 0.4em;
+}
+
+form.writecomment>textarea{
+    resize: none;
+}
+
+form.writecomment{
+    margin-top: 1em;
+}
+
+form#signup{
+    margin: 0 1em;
+    display:block;
+    clear:left;
+}
+
+
+
