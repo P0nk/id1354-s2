@@ -1,0 +1,44 @@
+/* 
+    Created on : Nov 6, 2017, 4:49:29 PM
+    Author     : Per
+*/
+div.calendar{
+    width: 50em;
+    height: 34em;
+    background-color: inherit;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.calendar>.row:not(#dayguide)>div{
+    height:6em;
+    width:6.8em;
+    background-color: #eaeaea;
+    border: 1px solid black;
+    float:left; 
+}
+.calendar>.row{
+    clear:left;
+}
+#dayguide>div{
+    height: 1.4em;
+    width: 6.8em;
+    float:left;
+    text-align: center;
+    border: 1px solid black;
+    background-color: #333;
+    color: white;
+    padding: 0.3em 0em 0em;
+}
+
+.calendarimg{
+    height: 4em;
+    width: 5em;
+    display: block;
+    margin: auto;
+}
+
+.calendarimg:hover{
+    box-shadow:0 6px 14px 0 rgba(0, 0, 0, 0.6);
+}
+

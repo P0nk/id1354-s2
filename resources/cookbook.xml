@@ -1,0 +1,99 @@
+<cookbook version="1">
+  <recipe>
+    <title>Köttbullar</title>
+    <preptime>10 min</preptime>
+    <cooktime>20 min</cooktime>
+    <totaltime>30 min</totaltime>
+    <quantity>4 portions</quantity>
+    <category>Classic</category>
+    <rating>4</rating>
+    <url>/id1354-s2/resources/meatball.jpg</url>
+    <ingredient>
+      <li>500 g köttfärs</li>
+      <li>½ dl ströbröd</li>
+      <li>1 dl grädde</li>
+      <li>2 msk finhackad lök</li>
+      <li>1 ägg</li>
+      <li>1 tsk salt</li>
+      <li>1 krm svartpeppar</li>
+      <li>2 msk smör</li>
+    </ingredient>
+    <ingredient>
+      <li>1 kg mjölig potatis</li>
+      <li>2 dl mjölk</li>
+      <li>½ dl matlagningsgrädde</li>
+      <li>½ gurka</li>
+      <li>salt och peppar</li>
+    </ingredient>
+    <recipetext>
+      <li>Blanda ströbröd och grädde. Låt svälla 10 min.</li>
+      <li>Lägg i färs, lök, ägg, salt och peppar. Rör till en jämn smet.</li>
+      <li>Forma färsen till jämna bullar.</li>
+      <li>Stek dem i smör på medelvärme 3-5 min.</li>
+    </recipetext>
+    <recipetext>
+      <li>Skala potatisen och skär i bitar.</li>
+      <li>Koka den mjuk i lättsaltat vatten 10-15 min.</li>
+      <li>Häll av vattnet och pressa potatisen genom purépress eller mosa med en stöt direkt i kastrullen.</li>
+      <li>Värm mjölken och grädden och rör ner i potatisen.</li>
+      <li>Smaksätt med salt och peppar.</li>
+      <li>Rör moset luftigt.</li>
+    </recipetext>
+    <nutrition>
+      <li>Energi: 555 kcal</li>
+      <li>Protein: 32 g</li>
+      <li>Kolhydrater: 43 g</li>
+      <li>Fett: 27 g</li>
+    </nutrition>
+    <comments>
+      <li>Jättegod rätt! Potatismoset blir krämigt och fint med grädden.</li>
+      <li>Jag lade till kantareller i moset för godare smak.</li>
+      <li>Gillar inte löken i köttbullarna, annars helt ok. Råkade överarbeta köttbullröran så att de blev alldeles för fasta</li>
+    </comments>
+    <description>
+      <li>Klassisk husmanskost</li>
+      <li>Servera köttbullarna med potatismoset och gurkan skuren i skivor.</li>
+    </description>
+  </recipe>
+  <recipe>
+    <title>Pannkakor</title>
+    <preptime>5 min</preptime>
+    <cooktime>15 min</cooktime>
+    <totaltime>20 min</totaltime>
+    <quantity>3-4 portions</quantity>
+    <category>Family</category>
+    <rating>3</rating>
+    <url>/id1354-s2/resources/pancake.jpg</url>
+    <ingredient>
+      <li>3 dl vetemjöl</li>
+      <li>½ tsk salt</li>
+      <li>6 dl mjölk</li>
+      <li>3 ägg</li>
+      <li>smör till stekning</li>
+    </ingredient>
+    <recipetext>
+      <li>Vispa samman mjöl och salt med hälften av mjölken.</li>
+      <li>Tillsätt resten av mjölken och vispa till en helt slät smet.</li>
+      <li>Vispa i äggen ett i taget.</li>
+      <li>Hetta upp en stekpanna med lite smör. Häll i ett tunt lager smet. 
+        När ytan stelnat och blivit matt är det dags att vända pannkakan. 
+        Stek i ytterligare någon minut.</li>
+      <li>Toppa med sylt och grädde. </li>
+    </recipetext>
+    <nutrition>
+      <li>Energi: 312 kcal</li>
+      <li>Protein: 15 g</li>
+      <li>Kolhydrater: 40 g</li>
+      <li>Fett: 10 g</li>
+    </nutrition>
+    <comments>
+      <li>Jag tillsatte ett extra ägg så att smeten skulle hålla ihop bättre.</li>
+      <li>smarrigt</li>
+      <li>Tack för receptet, barnen älskade det.</li>
+    </comments>
+    <description>
+      <li>Passar utmärkt till barn.</li>
+      <li>Går fort att laga.</li>
+    </description>
+  </recipe>
+</cookbook>
