@@ -37,6 +37,8 @@ foreach ($comments as $comment) {
 }
 echo "</div>";
 echo "<div class=\"writecomment\">";
-include 'fragments/writecomment.php';
+if (isset($_SESSION['username'])) {
+    include 'fragments/writecomment.php';
+}
 echo "</div>";
 
